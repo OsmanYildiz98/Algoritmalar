@@ -1,6 +1,8 @@
 www.patika.dev
 www.patika.dev/osmanyildiz
 
+MERGE SORT PROJESİ
+
 [16,21,11,8,12,22] --> Merge Sort
 
 [16,21,11]		[8,12,22]
